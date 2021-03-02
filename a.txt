@@ -1,0 +1,3 @@
+This is first line from a.txt
+This is second line from a.txt
+This is third line from a.txt
